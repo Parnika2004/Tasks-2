@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAGS</title>
+</head>
+<body>
+    <!-- basic font tags -->
+    <p><strong>An Example of a perfect Bold text</strong><br> 
+    <em>It's Italic ~ Prego</em> <br> 
+    <u>Underline text using 'u'</u> <br>
+    <mark>this is done by using mark tag</mark><br>
+    <del>Sorry content is deleted</del></p>
+
+
+    <h1 contenteditable="true">You can edit this</h1>
+    <h1 draggable="true">Why not try dragging this</h1>
+
+    <textarea spellcheck="true">car</textarea> <br><br>
+
+    <a href="https://www.spacex.com" target="_blank">CLICK ME!</a> <br><br>
+
+    <!-- ordered lists -->
+    <ol>
+        <li>1st</li>
+        <li>2nd</li>
+        <li>3rd</li>
+    </ol>
+    <!-- unordered lists -->
+    <ul>
+        <li>coffee</li>
+        <li>tea</li>
+        <li>milk</li>
+    </ul>
+
+    <pre>
+        a        content         with        lots           of          space.
+    </pre>
+    
+    <!-- tabindex -->
+    <h1 tabindex="1">Chapter 1</h1>
+    <h1 tabindex="2">Chapter 2</h1>
+    <h1 tabindex="3">Chapter 3</h1>
+
+    
+</body>
+</html>
